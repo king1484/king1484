@@ -11,9 +11,12 @@
   
 
 ⚡ Love learning and creating new stuff in software industry  
-<br/>  
+</br>
+
 ### My Motive
 I like to use and create software that helps the society in some way.
+
+</br>
 
 ## My Skills
 <table><tr><td valign="top" width="33%">
