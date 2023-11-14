@@ -11,12 +11,9 @@
   
 
 ⚡ Love learning and creating new stuff in software industry  
-<br/>  
 
-### My Motive
+## My Motive
 I like to use and create software that helps the society in some way.
-
-<br/>
 
 ## My Skills
 <table><tr><td valign="top" width="33%">
@@ -62,12 +59,10 @@ I like to use and create software that helps the society in some way.
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
+</td></tr></table> 
 
 
-## Connect with me  
+## Connect With Me
 <div align="center">
 <a href="https://twitter.com/Vinay1484" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
