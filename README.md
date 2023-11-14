@@ -5,7 +5,6 @@
   
 
 👀 I’m interested in Software Development, AI/ML and Blockchain.  
-  
 
 🧑‍💻 2 Star coder at CodeChef  
   
@@ -13,7 +12,8 @@
 ⚡ Love learning and creating new stuff in software industry  
 
 ## My Motive
-I like to use and create software that helps the society in some way.
+I have a passion for using and creating the software that positively impacts society.
+
 
 ## My Skills
 <table><tr><td valign="top" width="33%">
