@@ -3,10 +3,10 @@
 
 <br/>
 
-I build end-to-end web and mobile applications. Currently a Systems Engineer at Tata Consultancy Services, working on Angular/React migrations and full-stack integrations.
+I build end-to-end web and mobile applications. Currently a Systems Engineer at Tata Consultancy Services, working on developing software in React and full-stack integrations.
 
 **What I work with:**
-- **Frontend**: React.js, Angular, HTML/CSS, JavaScript, Tailwind CSS
+- **Frontend**: React.js, HTML/CSS, JavaScript, Tailwind CSS
 - **Backend**: Node.js (Express), Python (Flask), REST APIs
 - **Mobile**: Flutter
 - **AI/ML**: RAG pipelines, LLM integration, TensorFlow, deep learning
